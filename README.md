@@ -1,4 +1,7 @@
-# punkt
+# punkt [discontinued]
+
+## This code is legacy. Please find the successor project at https://github.com/maurbe/smudgy
+
  Particle-grid routines using sph. Illustrative examples can be found in the `documentation` folder.\
  The package offers three key contributions:
 
